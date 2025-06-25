@@ -1,0 +1,9 @@
+,Model,Train Accuracy,Test Accuracy,Train Recall,Test Recall,Train Precision,Test Precision
+0,Naive Bayes,0.82,0.83,0.18,0.19,0.36,0.35
+1,Decision Tree,1.0,0.76,1.0,0.24,1.0,0.21
+2,Random Forest,1.0,0.86,1.0,0.06,1.0,0.6
+3,AdaBoost,0.85,0.85,0.12,0.06,0.66,0.48
+4,Gradient Boosting,0.88,0.85,0.24,0.09,0.95,0.42
+5,KNN,0.87,0.84,0.23,0.1,0.71,0.37
+6,AdaBoost (SMOTE),0.84,0.79,0.8,0.26,0.87,0.27
+7,Gradient Boosting (SMOTE),0.89,0.82,0.83,0.15,0.95,0.28
